@@ -5,9 +5,9 @@ A project that determines the best Pittsburgh neighborhood for outdoor entertain
 
 This project was conducted by Team 14.
 
-Sam Gombiner (slg171)
-Heegwon Yang (hey14)
-Hongyang Wei (how67)
+* Sam Gombiner (slg171)
+* Heegwon Yang (hey14)
+* Hongyang Wei (how67)
 
 ## References
 
