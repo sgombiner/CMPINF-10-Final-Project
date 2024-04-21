@@ -20,6 +20,7 @@ The following datasets were used:
 ## Conclusions
 
 * Sam Gombiner:
+  My data pointed toward the possibility of Squirrel Hill South being the best neighborhood, however, that wasn't the first thing I would have hypothesized due to the overwhelming number of parks that East Liberty and Central Business District held. Still, our method of taking the average of each dataset percentage per neighborhood, combining them, and then comparing them to identify the neighborhood with the biggest cross-over was the most logical step and accurately calculates a best neighborhood based on our metric of outdoor entertainment. On a more personal level, I was quite happy for Squirrel Hill South to be our choice for the best neighborhood, as it's the primary area of Pittsburgh I find myself in, as I greatly enjoy the food options there. So in summary I agree with our data's finding not only on a quantitative level but also on a qualitative. 
   
 * Heegwon Yang:
   
