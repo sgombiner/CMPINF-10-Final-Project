@@ -3,7 +3,7 @@ A project that determines the best Pittsburgh neighborhood for outdoor entertain
 
 ## Team
 
-This project was conducted by Team 14.
+This project was conducted by Team 14 Fielders. (Group 14 on Canvas)
 
 * Sam Gombiner (slg171) - Parks.ipynb
 * Heegwon Yang (hey14) - Baseball.ipynb
