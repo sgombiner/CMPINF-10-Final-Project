@@ -17,6 +17,13 @@ The following datasets were used:
 * [City of Pittsburgh Parks](https://data.wprdc.org/dataset/parks) - A collection of parks within Pittsburgh
 * [Field Listings](https://data.wprdc.org/dataset/field-listings) - Contains data about the baseball fields within Pittsburgh
 
+## Conclusions
 
+* Sam Gombiner:
+  
+* Heegwon Yang:
+  
+* Hongyang Wei:
+  
 
 
