@@ -24,6 +24,6 @@ The following datasets were used:
 * Heegwon Yang:
   
 * Hongyang Wei:
-  
+  Brookline has the most facilities related to entertainment. However, the non-entertainment related facilities in Brookline isn't soo high. Squirrel Hill South rating number 5 in entertainment and number 2 in non-entertainment facilities, so we consider it's the best neighborhood related to facilities.
 
 
